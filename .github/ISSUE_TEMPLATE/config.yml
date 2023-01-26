@@ -1,1 +1,4 @@
 blank_issues_enabled: false
+- name: Feature Requests or Ideas
+    url: ../../../discussions/categories/ideas
+    about: Please discuss feature requests and ideas here.
